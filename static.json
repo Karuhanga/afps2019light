@@ -1,4 +1,10 @@
 {
   "root": "./",
-  "clean_urls": true
+  "clean_urls": true,
+  "redirects": {
+    "/register/": {
+      "url": "/register",
+      "status": 302
+    }
+  }
 }
