@@ -5,6 +5,10 @@
     "/register/": {
       "url": "/register",
       "status": 302
+    },
+    "/event_guide/": {
+      "url": "/event_guide",
+      "status": 302
     }
   }
 }
