@@ -49,8 +49,14 @@ a.navbar-item:hover {
     color: white;
 }
 
+#details-button {
+    background: transparent;
+    border-color: #ad231e;
+    color: #ad231e !important;
+}
+
 #intro-section {
-    background: url("../images/hills_6.png") no-repeat scroll center center;
+    background: url("../images/hills_6.png") no-repeat fixed center bottom;
     background-size: cover;
 }
 
@@ -106,8 +112,8 @@ hr:not(.navbar-divider) {
     font-family: 'Nunito', sans-serif;
 }
 
-#register-intro {
-    background: url("../images/bwindi.jpg") no-repeat scroll center center;
+#register-intro, #event-guide-intro {
+    background: url("../images/bwindi.jpg") no-repeat fixed center bottom;
     background-size: cover;
 }
 
@@ -145,4 +151,45 @@ hr:not(.navbar-divider) {
 
 #video-player {
     min-height: 480px;
+}
+
+#map {
+    min-height: 450px;
+}
+
+hr.sub {
+    width: 4rem;
+    height: .1rem;
+    background-color:  #ad231e;
+    margin-top: -.5rem;
+}
+
+.section-subtitle {
+    color: #ad231e;
+    margin-top: 8vh;
+}
+
+.center {
+    justify-content: center;
+}
+
+.has-text-red {
+    color: #ad231e;
+}
+
+.item {
+    padding: 1rem;
+}
+
+.focus-info {
+    padding-top: .5rem;
+}
+
+.info-card {
+    display: flex;
+    align-items: center;
+}
+
+.title, .subtitle {
+    font-weight: normal;
 }
