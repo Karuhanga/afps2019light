@@ -10,12 +10,44 @@
       "url": "/event_guide",
       "status": 302
     },
-    "/flexi/": {
-      "url": "/flexi",
+    "/downloads/flexi/": {
+      "url": "/downloads/flexi",
       "status": 302
     },
-    "/flexi": {
+    "/downloads/flexi": {
       "url": "https://drive.google.com/uc?export=download&id=0B1vXNpdX4OKAMVE1emJXc2Z5ZEtnZm43VTk0M0hvNFE2cDdZ",
+      "status": 302
+    },
+    "/downloads/concept-note/": {
+      "url": "/downloads/concept-note",
+      "status": 302
+    },
+    "/downloads/concept-note": {
+      "url": "https://drive.google.com/uc?export=download&id=0B1vXNpdX4OKAWlppUzlwN1BSVU85ZnBoUjU3WW9kRjJvS0xn",
+      "status": 302
+    },
+    "/downloads/hackathon/": {
+      "url": "/downloads/hackathon",
+      "status": 302
+    },
+    "/downloads/hackathon": {
+      "url": "https://drive.google.com/uc?export=download&id=0B1vXNpdX4OKANmNVR3EzcC1oek9HUGF5eHpUWWtnYWxIbTVr",
+      "status": 302
+    },
+    "/downloads/program/": {
+      "url": "/downloads/program",
+      "status": 302
+    },
+    "/downloads/program": {
+      "url": "https://drive.google.com/uc?export=download&id=0B1vXNpdX4OKAem1zcHZSMHVZeXZPYzR4Y3hTNWZ5SDk5TEpV",
+      "status": 302
+    },
+    "/downloads/sponsorship-avenues/": {
+      "url": "/downloads/sponsorship-avenues",
+      "status": 302
+    },
+    "/downloads/sponsorship-avenues": {
+      "url": "https://drive.google.com/uc?export=download&id=0B1vXNpdX4OKAX0RKc2NfdlRuTEd6QXlqVWwxQ3NXbFNvLUVr",
       "status": 302
     }
   }
