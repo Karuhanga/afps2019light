@@ -197,3 +197,7 @@ hr.sub {
 .icon.is-large {
     color: #ad231e;
 }
+
+.is-hoverable {
+    margin-left: -1vw;
+}
