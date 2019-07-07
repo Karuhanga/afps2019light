@@ -9,6 +9,14 @@
     "/event_guide/": {
       "url": "/event_guide",
       "status": 302
+    },
+    "/flexi/": {
+      "url": "/flexi",
+      "status": 302
+    },
+    "/flexi": {
+      "url": "https://drive.google.com/uc?export=download&id=0B1vXNpdX4OKAMVE1emJXc2Z5ZEtnZm43VTk0M0hvNFE2cDdZ",
+      "status": 302
     }
   }
 }
