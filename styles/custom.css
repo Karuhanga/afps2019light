@@ -56,8 +56,8 @@ a.navbar-item:hover {
 }
 
 #intro-section {
-    background: url("../images/hills_6.png") no-repeat fixed center bottom;
     background-size: cover;
+    background: #363636 url("../images/hills_6.png") no-repeat fixed center bottom;
 }
 
 #participate-word {
@@ -113,8 +113,8 @@ hr:not(.navbar-divider) {
 }
 
 #register-intro, #event-guide-intro {
-    background: url("../images/bwindi.jpg") no-repeat fixed center bottom;
     background-size: cover;
+    background: #363636 url("../images/bwindi.jpg") no-repeat fixed center bottom;
 }
 
 .padding-left {
@@ -192,4 +192,8 @@ hr.sub {
 
 .title, .subtitle {
     font-weight: normal;
+}
+
+.icon.is-large {
+    color: #ad231e;
 }
