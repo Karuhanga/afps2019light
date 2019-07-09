@@ -49,6 +49,14 @@
     "/downloads/sponsorship-avenues": {
       "url": "https://drive.google.com/uc?export=download&id=0B1vXNpdX4OKAX0RKc2NfdlRuTEd6QXlqVWwxQ3NXbFNvLUVr",
       "status": 302
+    },
+    "/downloads/leaders-in-training/": {
+      "url": "/downloads/leaders-in-training",
+      "status": 302
+    },
+    "/downloads/leaders-in-training": {
+      "url": "https://drive.google.com/uc?export=download&id=0B1vXNpdX4OKARUxRMVRDY2dGMWhVRk85c0ZlQzl2aS1HaVBr",
+      "status": 302
     }
   }
 }

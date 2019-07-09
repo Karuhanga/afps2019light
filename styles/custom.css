@@ -85,7 +85,7 @@ hr:not(.navbar-divider) {
 
 .navbar-divider {
     background-color: #ad231e;
-    height: .5px;
+    height: 1px;
 }
 
 .section-title {
