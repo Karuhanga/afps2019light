@@ -57,6 +57,14 @@
     "/downloads/leaders-in-training": {
       "url": "https://drive.google.com/uc?export=download&id=0B1vXNpdX4OKARUxRMVRDY2dGMWhVRk85c0ZlQzl2aS1HaVBr",
       "status": 302
+    },
+    "/downloads/pre-symposium-booklet/": {
+      "url": "/downloads/pre-symposium-booklet",
+      "status": 302
+    },
+    "/downloads/pre-symposium-booklet": {
+      "url": "https://drive.google.com/uc?export=download&id=0B1vXNpdX4OKAekplM3dRTTdaTzF1WXJqSWxONG13dHptVkI0",
+      "status": 302
     }
   }
 }
