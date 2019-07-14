@@ -219,3 +219,7 @@ hr.sub {
 .navbar-divider {
     display: block;
 }
+
+.small-margin-top {
+    margin-top: 1px;
+}
