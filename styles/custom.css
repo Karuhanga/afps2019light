@@ -211,3 +211,7 @@ hr.sub {
     max-width: 100%;
     width: unset;
 }
+
+.column.box.tile {
+    margin: 4px;
+}
