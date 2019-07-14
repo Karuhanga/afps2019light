@@ -85,7 +85,7 @@ hr:not(.navbar-divider) {
 
 .navbar-divider {
     background-color: #ad231e;
-    height: 1px;
+    height: .5px;
 }
 
 .section-title {
@@ -214,4 +214,8 @@ hr.sub {
 
 .column.box.tile {
     margin: 4px;
+}
+
+.navbar-divider {
+    display: block;
 }
