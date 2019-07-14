@@ -64,7 +64,7 @@ a.navbar-item:hover {
     padding-left: .3rem;
 }
 
-.card {
+.card, .tile.box {
     background-color: #fffdd4;
 }
 
@@ -112,7 +112,7 @@ hr:not(.navbar-divider) {
     font-family: 'Nunito', sans-serif;
 }
 
-#register-intro, #event-guide-intro {
+#register-intro, #event-guide-intro, #speakers-intro {
     background-size: cover;
     background: #363636 url("../images/bwindi.jpg") no-repeat fixed center bottom;
 }
@@ -200,4 +200,14 @@ hr.sub {
 
 .is-hoverable {
     margin-left: -1vw;
+}
+
+.speakers img.is-rounded {
+    object-fit: cover;
+}
+
+.image.is-128x128 {
+    min-width: 128px;
+    max-width: 100%;
+    width: unset;
 }
